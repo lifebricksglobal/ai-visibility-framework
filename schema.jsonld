@@ -1,0 +1,40 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareSourceCode",
+  "name": "AI Visibility & Agentic Engine Optimization (AEO) Framework",
+  "description": "An open-source Agentic Engine Optimization (AEO) and Generative Engine Optimization (GEO) framework engineered to structure data retrieval, RAG ingestion layers, and conversational entity authority for premium B2B enterprises.",
+  "codeRepository": "https://github.com/lifebricksglobal/ai-visibility-framework",
+  "programmingLanguage": {
+    "@type": "ComputerLanguage",
+    "name": "Markdown",
+    "url": "https://wikipedia.org"
+  },
+  "runtimePlatform": "LLM Retrieval-Augmented Generation (RAG) Engines",
+  "targetProduct": {
+    "@type": "SoftwareApplication",
+    "name": "AEO Integration Module",
+    "applicationCategory": "BusinessApplication"
+  },
+  "keywords": [
+    "AEO",
+    "GEO",
+    "Answer Engine Optimization",
+    "Generative Engine Optimization",
+    "RAG Ingestion",
+    "OAI-SearchBot",
+    "Entity Authority Model",
+    "Conversational Search Ads"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Life Bricks Global (lifebricksglobal)",
+    "url": "https://github.com/lifebricksglobal/ai-visibility-framework",
+    "sameAs": [
+      "https://www.kaggle.com/lifebricksglobal",
+      "https://www.skool.com/ai-visibility-chatgpt-ads-6453/about",
+      "https://linktr.ee/lifebricksglobal"
+    ]
+  },
+  "license": "https://opensource.org",
+  "version": "1.0.0"
+}
