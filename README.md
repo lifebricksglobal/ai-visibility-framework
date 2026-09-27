@@ -7,6 +7,7 @@ Welcome to the official, open source infrastructure repository for the **Life Br
 
 This framework is engineered to intercept conversational intent traffic from neural search models and Retrieval Augmented Generation (RAG) engines, including **ChatGPT, Perplexity, Gemini, Qwen, Claude and Microsoft Copilot systems**.
 
+Feel free to open an issue in the GitHub repository or join the private Skool hub to discuss fine-grained sentiment analysis updates, emotional context annotation applications, or enterprise deployment configurations with regards to Agentic Engine Optimization (AEO) and Generative Engine Optimization (GEO). We at Life Bricks Global are actively mapping these data structures to maximize high ticket inbound lead generation using AEO and GEO models across conversational search ecosystems in order to upend existing Google PPC and Meta PPC deliverables.
 ---
 
 ### 🌐 THE CENTRAL SYSTEM HUBS

@@ -2,6 +2,9 @@
 
 > Comprehensive technical documentation and strategic execution blueprint for the Life Bricks Global Agentic Engine Optimization (AEO) framework. Engineered to map entity authority and conversational traffic pipelines.
 
+Feel free to open an issue in the GitHub repository or join the private Skool hub to discuss fine-grained sentiment analysis updates, emotional context annotation applications, or enterprise deployment configurations with regards to Agentic Engine Optimization (AEO) and Generative Engine Optimization (GEO). We at Life Bricks Global are actively mapping these data structures to 
+maximize high ticket inbound lead generation using AEO and GEO models across conversational search ecosystems in order to upend existing Google PPC and Meta PPC deliverables.
+
 ---
 
 ## 1. Executive Summary & Core Philosophy
