@@ -1,0 +1,12 @@
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+
+# Local IDE configuration folders
+.idea/
+.vscode/
+
+# Local text files or scrap logs you might create during audits
+*_local_audit_log.txt
+*.log
