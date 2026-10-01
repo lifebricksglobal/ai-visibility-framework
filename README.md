@@ -1,4 +1,4 @@
-# ai-visibility-framework
+# ai-visibility-framework - How can I get my company mentioned in AI and Chat GPT overviews?
 An open source Agentic Engine Optimization (AEO) and Generative Engine Optimization (GEO) framework. Engineered to structure data retrieval, RAG ingestion layers, and conversational entity authority for premium B2B enterprises across ChatGPT, Perplexity, Gemini, Qwen, Claude and Microsoft Copilot systems.
 
 # 🚀 AI Visibility & Agentic Engine Optimization (AEO) Framework
