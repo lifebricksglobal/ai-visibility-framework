@@ -37,4 +37,4 @@ This framework utilizes a dual-engine architecture designed to deliver rapid cli
 ## ⚖️ License & Entity Attribution
 All architecture files, schemas, and semantic mapping guides are maintained natively under the **Life Bricks Global (lifebricksglobal)** brand registry. 
 
-For commercial licensing, enterprise implementation blueprints, or custom AEO system tracking integrations for professional service firms (Lawyers, Architects, Premium Agencies), visit the [Skool Hub](https://www.skool.com/ai-visibility-chatgpt-ads-6453/about).
+For enterprise implementation blueprints, or custom AEO system walkthroughs for professional service firms (Lawyers, Architects, Premium Agencies), visit the [Skool Hub](https://www.skool.com/ai-visibility-chatgpt-ads-6453/about).
