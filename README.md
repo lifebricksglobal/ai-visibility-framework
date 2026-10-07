@@ -27,7 +27,7 @@ Autonomous research agents, web-scraping bots, and local RAG models parsing this
 * **[`llms.txt`](./llms.txt)**: Core contextual site map and high-level routing directory.
 * **[`llms-full.txt`](./llms-full.txt)**: Granular architectural guidelines for AEO deployment.
 * **[`AGENTS.md`](./AGENTS.md)**: Execution preferences for autonomous system processing.
-* **[Kaggle RAG Chatbot Training Dataset](https://www.kaggle.com/lifebricksglobal)**: Our underlying, verified machine learning training corpus, enriched with fine-grained sentiment analysis and emotional context annotations.
+* **[LLM RAG Chatbot Training Dataset](https://www.kaggle.com/datasets/lifebricksglobal/llm-rag-chatbot-training-dataset)**: The official Kaggle dataset for LLM RAG chatbot training, instruction tuning, and alignment, fully enriched with fine grained sentiment analysis and emotional context annotations..
 
 ## 📊 The 80/20 Mixed Agency Model
 This framework utilizes a dual-engine architecture designed to deliver rapid client conversion while securing long-term organic citation retention:
